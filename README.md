@@ -73,7 +73,6 @@
 | :--- | :--- |
 | Développement Python modélisant le phénomène d'**effet tunnel quantique** (fonction d'onde face à une barrière de potentiel).<br><br>👉 *[Voir le projet](#)* | Assistants médicaux basés sur l'IA (Langflow/Streamlit) et plateformes de simulation géolocalisée (TypeScript/Expo).<br><br>👉 *[Voir le projet](#)* |
 
-> *(Note: Remplacez les liens `#` par les liens réels de vos repositories GitHub une fois créés)*
 
 ---
 
