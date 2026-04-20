@@ -1,21 +1,21 @@
 <!-- COVER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=Boris%20O.%20Djagou&fontSize=50&fontColor=ffffff&desc=Bio-informatics%20%E2%80%A2%20AI%20%26%20Data%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20IoT&descAlignY=70&descAlign=50&descSize=20" alt="Boris Djagou Cover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=Boris%20O.%20Djagou&fontSize=50&fontColor=ffffff&desc=Bio-informatics%20|%20AI%20and%20Data%20|%20Full-Stack%20|%20IoT&descAlignY=70&descAlign=50&descSize=20" alt="Boris Djagou Cover" />
 </p>
 
-
+<!-- CONTACT BADGES -->
 <p align="center">
   <a href="https://github.com/ShegouB" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-SHEGOUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/borisdjagou" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-BORIS_DJAGOU-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:djagouboris@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-DJAGOUBORIS@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/Borisdja2.0/" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-BORIS_DJAGOU-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
